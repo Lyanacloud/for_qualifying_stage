@@ -60,5 +60,5 @@ int main()
             cout << max_prib;
         }
     }
-    
+    return 0;
 }
